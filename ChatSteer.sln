@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSteer", "ChatSteer.csproj", "{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}.Debug|x64.ActiveCfg = Debug|x64
+		{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}.Debug|x64.Build.0 = Debug|x64
+		{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}.Release|x64.ActiveCfg = Release|x64
+		{335C1A11-1862-4F82-AF0D-BC99B0AFBCCE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34278383-71F3-44BD-939A-9429E982F638}
+	EndGlobalSection
+EndGlobal
