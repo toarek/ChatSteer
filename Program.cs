@@ -13,6 +13,9 @@ namespace ChatSteer {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            Config.Load();
+
             Application.Run(new Main());
         }
     }
